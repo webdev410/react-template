@@ -1,0 +1,26 @@
+.vh100 {
+    min-height: 100vh;
+}
+
+.site-title {
+    text-decoration: none !important;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.component-container {
+    padding: 15px;
+    border-radius: 15px;
+    border: 1px dotted #1a1a1a;
+    background-color: #fafafa;
+}
+
+.card-header {
+    border-radius: 10px;
+}
+
+textarea {
+    resize: none;
+}
